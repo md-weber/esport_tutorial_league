@@ -1,6 +1,6 @@
 # esport_tutorial_league
 
-A new Flutter project.
+A speedcode project for [Flutter Explained](https://youtube.com/c/flutterexplained)
 
 ## Getting Started
 
